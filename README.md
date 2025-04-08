@@ -1,4 +1,5 @@
-https://tryolabs.imgix.net/assets/blog/2017-08-30-object-detection-an-overview-in-the-age-of-deep-learning/objectdetection-9f23404035.jpg?auto=format&fit=max&w=1920
+![image](https://github.com/user-attachments/assets/c1a61e5b-4eb3-4b43-8656-9428b9dcaafa)
+
 # 🎯 Object Detection using Vertex AI AutoML
 
 ## 📘 Project Overview
